@@ -1,8 +1,17 @@
 import mongoose from "mongoose";
+import mongoosePaginate from "mongoose-paginate-v2";
 
-const schema = new mongoose.Schema({
-  title: { required: true, type: String },
+const cardCollection = "cards";
+const cardSchema = new mongoose.Schema({
+  name: { required: true, type: String },
   price: { required: true, type: Number },
   stock: { required: true, type: Boolean },
-  serie: { required: true, type: String },
+  type: { required: true, type: String },
+  image: { required: false, type: String },
+  discount: { required: true, type: Number },
 });
+
+cardSchema.plugin(mongoosePaginate);
+const cardtModel = mongoose.model(cardCollection, cardSchema);
+
+export default cardtModel;

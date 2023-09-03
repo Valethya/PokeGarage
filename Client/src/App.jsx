@@ -1,35 +1,28 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { StyleSheetManager } from "styled-components";
+import isPropValid from "@emotion/is-prop-valid";
+import Catalog from "./pages/catalog.pages";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import { NavBar } from "./components/organisms/navBar";
+import { Footer } from "./components/organisms/footer";
+import { Contact } from "./components/organisms/contact";
 
 function App() {
-  const [count, setCount] = useState(0)
-
+  const pages = ["estadio", "objeto", "pokemon", "partidario", "herramienta"];
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    <StyleSheetManager shouldForwardProp={isPropValid}>
+      <Router>
+        <NavBar />
+        <Routes>
+          <Route path="/" element={<Catalog />} />
+          {pages.map((page) => (
+            <Route path={`/${page}`} element={<Catalog filter={page} />} />
+          ))}
+        </Routes>
+        <Contact />
+        <Footer />
+      </Router>
+    </StyleSheetManager>
+  );
 }
 
-export default App
+export default App;

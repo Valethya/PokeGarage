@@ -8,6 +8,7 @@
     "dotenv": "^16.3.1",
     "graphql": "^16.7.1",
     "mongoose": "^7.4.1",
+    "mongoose-paginate-v2": "^1.7.31",
     "mongoose-unique-validator": "^4.0.0",
     "nodemon": "^3.0.1"
   }
