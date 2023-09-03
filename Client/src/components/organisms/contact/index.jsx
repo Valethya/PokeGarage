@@ -1,5 +1,6 @@
 import Icons from "../../atoms/icons";
 import { StyledContact } from "./styled";
+import { useState, useEffect } from "react";
 
 export function Contact() {
   const [prevScrollPos, setPrevScrollPos] = useState(0);
