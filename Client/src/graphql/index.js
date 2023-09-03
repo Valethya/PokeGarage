@@ -1,6 +1,6 @@
 import { ApolloClient, InMemoryCache } from "@apollo/client";
 
 export const client = new ApolloClient({
-  uri: "https://poke-garage.vercel.app/",
+  uri: "https://pokegarege.onrender.com",
   cache: new InMemoryCache(),
 });

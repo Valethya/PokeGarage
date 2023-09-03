@@ -7,10 +7,10 @@ function processData(cards) {
   const { totalPages, page, hasPrevPage, hasNextPage, prevPage, nextPage } =
     cards;
 
-  const prevUrl = `http://localhost:4000/?${new URLSearchParams({
+  const prevUrl = `https://pokegarege.onrender.com/?${new URLSearchParams({
     page: page - 1,
   })}`;
-  const nextUrl = `http://localhost:4000/?${new URLSearchParams({
+  const nextUrl = `https://pokegarege.onrender.com/?${new URLSearchParams({
     page: page + 1,
   })}`;
 
