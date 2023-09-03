@@ -1,7 +1,7 @@
-import { BsSuitHeartFill, BsWhatsapp, BsSearch } from "react-icons/Bs";
-import { BiSolidRightArrow, BiSolidDownArrow } from "react-icons/Bi";
+import { BsSuitHeartFill, BsWhatsapp, BsSearch } from "react-icons/bs";
+import { BiSolidRightArrow, BiSolidDownArrow } from "react-icons/bi";
 import { StyledIcon } from "./styled";
-import { AiOutlineMenu, AiOutlineClose } from "react-icons/Ai";
+import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 import {
   MdKeyboardDoubleArrowRight,
   MdKeyboardDoubleArrowLeft,
