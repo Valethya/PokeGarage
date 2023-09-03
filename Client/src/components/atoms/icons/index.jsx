@@ -6,7 +6,7 @@ import {
   MdKeyboardDoubleArrowRight,
   MdKeyboardDoubleArrowLeft,
   MdDiscount,
-} from "react-icons/Md";
+} from "react-icons/md";
 export default function Icons({ type, color, size, handle }) {
   const Type = {
     search: <BsSearch color={color} size={size} />,
