@@ -18,6 +18,9 @@ export const StyledAside = styled.div`
   li {
     width: 100%;
     font-size: 120%;
+    a {
+      color: #363535;
+    }
     span {
       color: transparent;
     }
