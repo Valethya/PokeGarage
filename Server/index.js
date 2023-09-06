@@ -18,6 +18,7 @@ type Card{
     id:String!
     discount:Int!
     image:String!
+    finalPrice:Int!
 }
 type Response{
   totalDocs: Int!
@@ -43,7 +44,7 @@ type Query{
 
 type Mutation{
   populateCard:String
-  createCard(price:Int,stock:Boolean,type:String,image:String,name:String):String
+  createCard(price:Int,stock:Boolean,type:String,image:String,name:String,finalPrice:Int):String
 editCard(price:Int,stock:Boolean,id:String):String
 }`;
 
