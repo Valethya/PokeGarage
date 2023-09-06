@@ -23,6 +23,7 @@ export const AllCards = gql`
         discount
         image
         stock
+        finalPrice
       }
     }
   }
