@@ -13,18 +13,6 @@ export const pluralizar = (word) => {
   }
 };
 
-export const performanceSearch = (event) => {
-  const value = event.target.value;
-  if (filter) {
-    if (type[filter]) {
-      setVariable({ type: filter, name: value, sort: sort, page: page });
-    }
-  } else {
-    setName(value);
-    setVariable({ name: value, sort: sort, page: page });
-  }
-};
-
 export function formatCurrencyCLP(value) {
   return new Intl.NumberFormat("es-CL", {
     style: "currency",

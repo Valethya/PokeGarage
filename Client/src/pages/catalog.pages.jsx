@@ -6,7 +6,7 @@ import { Select } from "../components/atoms/select";
 import { SearchBar } from "../components/molecules/searchBar";
 import { useState, useEffect } from "react";
 import Pagination from "../components/molecules/pagination";
-import { performanceSearch, pluralizar } from "../utils";
+import { pluralizar } from "../utils";
 
 export default function Catalog({ filter }) {
   document.title = filter ? pluralizar(filter) : "Home";
@@ -15,7 +15,7 @@ export default function Catalog({ filter }) {
   const [sort, setSort] = useState();
   const [page, setPage] = useState("1");
   const [name, setName] = useState();
-
+  const [inputValue, setInputValue] = useState("");
   const type = {
     partidario: "partidario",
     pokemon: "pokemon",
@@ -57,20 +57,37 @@ export default function Catalog({ filter }) {
       });
     }
   };
-
+  const performanceSearch = (event) => {
+    const value = event.target.value || inputValue;
+    if (filter) {
+      if (type[filter]) {
+        setVariable({ type: filter, name: value, sort: sort, page: page });
+      }
+    } else {
+      setName(value);
+      setVariable({ name: value, sort: sort, page: page });
+    }
+  };
   function handleSearch(event) {
     if (event.key === "Enter") {
       event.preventDefault();
-      performanceSearch();
+      performanceSearch(event);
     }
   }
-  function clickSearch() {
-    performanceSearch();
+  function clickSearch(event) {
+    event.preventDefault();
+    console.log("soy un click", event.target);
+    performanceSearch(event);
   }
 
   function handlePage(numPage) {
     setPage(numPage);
   }
+
+  const handleInputChange = (event) => {
+    setInputValue(event.target.value);
+  };
+
   return (
     <>
       <SearchBar>
@@ -79,6 +96,7 @@ export default function Catalog({ filter }) {
           icon="search"
           handle={handleSearch}
           click={clickSearch}
+          change={handleInputChange}
         />
 
         <Select options={options} onSelect={handleSelect} />
