@@ -26,6 +26,9 @@ export default function Catalog({ filter }) {
 
   useEffect(() => {
     const updatedVariable = { ...variable, sort };
+    if (!filter) {
+      setVariable(updatedVariable);
+    }
     if (filter) {
       updatedVariable.type = type[filter] ? filter : variable.type;
     }
@@ -58,7 +61,7 @@ export default function Catalog({ filter }) {
     }
   };
   const performanceSearch = (event) => {
-    const value = event.target.value || inputValue;
+    const value = event.target?.value || inputValue;
     if (filter) {
       if (type[filter]) {
         setVariable({ type: filter, name: value, sort: sort, page: page });
@@ -76,7 +79,6 @@ export default function Catalog({ filter }) {
   }
   function clickSearch(event) {
     event.preventDefault();
-    console.log("soy un click", event.target);
     performanceSearch(event);
   }
 
