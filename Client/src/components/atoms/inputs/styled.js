@@ -32,6 +32,4 @@ export const StyledInputIcons = styled.div`
       border-style: double;
     }
   }
-  @media only screen and (min-width: 960px) {
-  }
 `;
