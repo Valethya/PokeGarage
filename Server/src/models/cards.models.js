@@ -9,6 +9,7 @@ const cardSchema = new mongoose.Schema({
   type: { required: true, type: String },
   image: { required: false, type: String },
   discount: { required: true, type: Number },
+  finalPrice: { required: true, type: Number },
 });
 
 cardSchema.plugin(mongoosePaginate);

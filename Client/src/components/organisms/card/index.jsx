@@ -5,11 +5,6 @@ import Details from "../../molecules/details";
 import { StyledCard, StyledCardShadow, StyledImageCard } from "./styled";
 
 export default function Card({ data }) {
-  function sale() {
-    const discount = data.discount;
-    const price = data.price;
-    return price - (discount * price) / 100;
-  }
   return (
     <StyledCard>
       <StyledCardShadow>
@@ -22,9 +17,11 @@ export default function Card({ data }) {
           {data.discount > 0 ? (
             <strike>{formatCurrencyCLP(data.price)}</strike>
           ) : (
-            <span>{formatCurrencyCLP(data.price)}</span>
+            <span>{formatCurrencyCLP(data.finalPrice)}</span>
           )}
-          {data.discount > 0 && <span>{formatCurrencyCLP(sale())}</span>}
+          {data.discount > 0 && (
+            <span>{formatCurrencyCLP(data.finalPrice)}</span>
+          )}
         </Details>
       </StyledCardShadow>
     </StyledCard>

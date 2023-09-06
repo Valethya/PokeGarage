@@ -40,8 +40,8 @@ export default function Catalog({ filter }) {
   }, [sort, filter]);
 
   const options = [
-    { value: "price", label: "de menor precio" },
-    { value: "-price", label: "de mayor precio" },
+    { value: "finalPrice", label: "de menor precio" },
+    { value: "-finalPrice", label: "de mayor precio" },
   ];
 
   const handleSelect = (selectedOption) => {

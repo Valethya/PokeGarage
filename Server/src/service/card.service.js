@@ -98,13 +98,18 @@ async function findJson() {
 async function populateCards() {
   try {
     const cards = await findJson();
-    await manager.populate(cards);
+
+    const cardsWithFinalPrice = cards.map((card) => ({
+      ...card,
+      finalPrice: card.price - (card.price * card.discount) / 100,
+    }));
+    console.log(cardsWithFinalPrice);
+    await manager.populate(cardsWithFinalPrice);
     return "cartas cargadas";
   } catch (error) {
     throw error;
   }
 }
-
 async function updateCard(args) {
   try {
     const { price, stock, id } = args;
