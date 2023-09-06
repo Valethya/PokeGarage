@@ -23,7 +23,6 @@ export function Aside({ onClose, show }) {
   function handleActive(event) {
     const target = event.target;
     const activeElement = document.querySelector("#active");
-    console.log(activeElement);
     if (activeElement) {
       activeElement.removeAttribute("id");
     }

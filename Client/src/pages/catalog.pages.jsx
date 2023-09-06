@@ -27,11 +27,14 @@ export default function Catalog({ filter }) {
   useEffect(() => {
     const updatedVariable = { ...variable, sort };
     if (!filter) {
+      delete updatedVariable.type;
+      delete updatedVariable.sort;
       setVariable(updatedVariable);
     }
     if (filter) {
       updatedVariable.type = type[filter] ? filter : variable.type;
     }
+
     setVariable(updatedVariable);
   }, [sort, filter]);
 
@@ -89,7 +92,6 @@ export default function Catalog({ filter }) {
   const handleInputChange = (event) => {
     setInputValue(event.target.value);
   };
-
   return (
     <>
       <SearchBar>

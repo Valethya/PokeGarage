@@ -13,18 +13,18 @@ export const StyledSelect = styled.div`
   cursor: pointer;
   z-index: 10;
   position: relative;
-  margin: 5px;
+  margin: 2.5px;
   p {
     width: 100%;
-    margin-left: 5px;
+    margin: 2.5px;
   }
   &:hover {
-    margin: -5px;
-    margin-left: 5px;
-    border: 10px solid #de5e4f;
+    margin: -2.5px;
+    margin-left: 2.5px;
+    border: 5px solid #de5e4f;
     border-style: double;
     p {
-      margin-left: -5px;
+      margin-left: -2.5px;
     }
   }
   &:focus-visible {
@@ -34,6 +34,15 @@ export const StyledSelect = styled.div`
     border-style: double;
     p {
       margin-left: -5px;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    margin: 5px;
+    &:hover {
+      margin: -5px;
+      margin-left: 5px;
+      border: 10px solid #de5e4f;
+      border-style: double;
     }
   }
 `;
@@ -57,8 +66,12 @@ export const StyledListSelect = styled.ul`
   top: 3em;
   z-index: 9;
   gap: 0;
-  border: 10px solid #de5e4f;
+  border: 5px solid #de5e4f;
   border-style: double;
+  @media only screen and (min-width: 768px) {
+    border: 10px solid #de5e4f;
+    border-style: double;
+  }
 `;
 export const Styledoption = styled.li`
   width: 100%;

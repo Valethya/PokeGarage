@@ -13,13 +13,21 @@ export const StyledAnnounce = styled.div`
   gap: 2em;
   padding: 1em;
   @media only screen and (min-width: 768px) {
-    width: 30%;
-    height: 100%;
+    width: 50%;
+    font-size: 12px;
   }
   @media only screen and (min-width: 960px) {
+    width: 50%;
+    font-size: 16px;
   }
 `;
 export const StyledImage = styled.div`
-  width: 18em;
+  max-width: 100px;
   margin-bottom: 3em;
+  @media only screen and (min-width: 768px) {
+    max-width: 120px;
+  }
+  @media only screen and (min-width: 960px) {
+    max-width: 130px;
+  }
 `;

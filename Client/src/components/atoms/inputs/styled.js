@@ -16,12 +16,22 @@ export const StyledInputIcons = styled.div`
   padding: 0.4em;
   padding-left: 1em;
   height: fit-content;
-
-  margin: 5px;
+  margin: 2.5px;
   &:hover {
-    margin: -5px;
-    margin-left: 5px;
-    border: 10px solid #de5e4f;
+    margin: -2.5px;
+    margin-left: 2.5px;
+    border: 5px solid #de5e4f;
     border-style: double;
+  }
+  @media only screen and (min-width: 768px) {
+    margin: 5px;
+    &:hover {
+      margin: -5px;
+      margin-left: 5px;
+      border: 10px solid #de5e4f;
+      border-style: double;
+    }
+  }
+  @media only screen and (min-width: 960px) {
   }
 `;

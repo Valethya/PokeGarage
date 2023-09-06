@@ -12,6 +12,7 @@ export const StyledFooter = styled.div`
   padding: 1em;
   position: absolute;
   bottom: 0;
+  padding: 1em;
   span {
     font-size: 30px;
     color: #363535;
@@ -58,7 +59,7 @@ export const StyledContentUl = styled.div`
   flex-direction: column;
   align-items: flex-start;
   gap: 1em;
-  width: 60%;
+  width: 50%;
   @media only screen and (min-width: 768px) {
     display: flex;
     flex-direction: row;

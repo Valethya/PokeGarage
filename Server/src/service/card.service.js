@@ -7,10 +7,10 @@ function processData(cards) {
   const { totalPages, page, hasPrevPage, hasNextPage, prevPage, nextPage } =
     cards;
 
-  const prevUrl = `https://pokegarege.onrender.com/?${new URLSearchParams({
+  const prevUrl = `http://localhost:4000/?${new URLSearchParams({
     page: page - 1,
   })}`;
-  const nextUrl = `https://pokegarege.onrender.com/?${new URLSearchParams({
+  const nextUrl = `http://localhost:4000/?${new URLSearchParams({
     page: page + 1,
   })}`;
 
@@ -32,7 +32,6 @@ function processData(cards) {
 
 async function findCards(args) {
   try {
-    console.log(args);
     const { type, name, page, limit, sort } = args;
     const query = {};
 
@@ -55,10 +54,9 @@ async function findCards(args) {
     };
     const foundCard = await manager.findAll(query, options);
     const response = processData(foundCard);
-    console.log(response.payload);
+
     return response;
   } catch (error) {
-    console.log(error);
     return error.message;
   }
 }
@@ -84,7 +82,6 @@ async function createCards(args) {
 
 async function findJson() {
   const file = `${process.cwd()}/database.json`;
-  console.log(`${process.cwd()}/database.json`);
   if (fs.existsSync(file)) {
     const data = await fs.promises.readFile(file);
     const response = JSON.parse(data);
@@ -106,7 +103,6 @@ async function populateCards() {
 
 async function updateCard(args) {
   try {
-    console.log(args);
     const { price, stock, id } = args;
     const ops = {};
     if (price) {
@@ -116,7 +112,7 @@ async function updateCard(args) {
       ops.stock = stock;
     }
     const result = await manager.update(id, ops);
-    console.log(result);
+
     if (result.modifiedCount != 0) {
       return "todo Ok";
     }
