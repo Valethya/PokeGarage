@@ -15,7 +15,7 @@ type Card{
     price:Int!
     stock:Boolean!
     type:String!
-    id:String!
+    _id:String!
     discount:Int!
     image:String!
     finalPrice:Int!

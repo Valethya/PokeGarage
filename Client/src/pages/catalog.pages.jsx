@@ -5,7 +5,6 @@ import { Input } from "../components/atoms/inputs";
 import { Select } from "../components/atoms/select";
 import { SearchBar } from "../components/molecules/searchBar";
 import { useState, useEffect } from "react";
-import Pagination from "../components/molecules/pagination";
 import { pluralizar } from "../utils";
 
 export default function Catalog({ filter }) {
@@ -67,11 +66,16 @@ export default function Catalog({ filter }) {
     const value = event.target?.value || inputValue;
     if (filter) {
       if (type[filter]) {
-        setVariable({ type: filter, name: value, sort: sort, page: page });
+        setVariable({
+          type: filter,
+          ...(value && { name: value }),
+          sort: sort,
+          page: page,
+        });
       }
     } else {
-      setName(value);
-      setVariable({ name: value, sort: sort, page: page });
+      value && setName(value);
+      setVariable({ ...(value && { name: value }), sort: sort, page: page });
     }
   };
   function handleSearch(event) {

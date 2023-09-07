@@ -6,7 +6,7 @@ import { StyledCard, StyledCardShadow, StyledImageCard } from "./styled";
 
 export default function Card({ data }) {
   return (
-    <StyledCard>
+    <StyledCard key={data._id}>
       <StyledCardShadow>
         <StyledImageCard>
           {data.discount > 0 && <Badge>{data.discount}%</Badge>}

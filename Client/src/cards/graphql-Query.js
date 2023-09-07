@@ -24,6 +24,7 @@ export const AllCards = gql`
         image
         stock
         finalPrice
+        _id
       }
     }
   }

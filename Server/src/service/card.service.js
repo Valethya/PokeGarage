@@ -7,12 +7,12 @@ function processData(cards) {
   const { totalPages, page, hasPrevPage, hasNextPage, prevPage, nextPage } =
     cards;
 
-  const prevUrl = `https://poke-garage-rb52rn3e1-valethya.vercel.app/?${new URLSearchParams(
+  const prevUrl = `https://poke-garage-valethya.vercel.app/?${new URLSearchParams(
     {
       page: page - 1,
     }
   )}`;
-  const nextUrl = `https://poke-garage-rb52rn3e1-valethya.vercel.app/?${new URLSearchParams(
+  const nextUrl = `https://poke-garage-valethya.vercel.app/?${new URLSearchParams(
     {
       page: page + 1,
     }
