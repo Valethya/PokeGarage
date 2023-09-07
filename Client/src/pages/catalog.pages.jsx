@@ -28,7 +28,6 @@ export default function Catalog({ filter }) {
     const updatedVariable = { ...variable, sort };
     if (!filter) {
       delete updatedVariable.type;
-      delete updatedVariable.sort;
       delete updatedVariable.name;
       setVariable(updatedVariable);
     }
