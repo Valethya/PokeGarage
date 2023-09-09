@@ -5,7 +5,7 @@ export const StyledContact = styled.div`
   bottom: 5em;
   right: 1em;
   font-size: 30px;
-  background-color: #f3f3f3;
+  background-color: #de5e4f;
   height: 45px;
   width: 45px;
   border-radius: 50%;
@@ -15,4 +15,13 @@ export const StyledContact = styled.div`
   justify-content: center;
   align-items: center;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  padding: 1em;
+  a {
+    &:visited {
+      color: #f3f3f3;
+    }
+    &:active {
+      color: #f3f3f3;
+    }
+  }
 `;

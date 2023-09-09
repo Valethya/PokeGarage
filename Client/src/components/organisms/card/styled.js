@@ -2,9 +2,12 @@ import styled, { css } from "styled-components";
 
 export const StyledCard = styled.div`
   width: calc(100% / 3);
-
+  transition: transform 0.5s;
   @media only screen and (min-width: 768px) {
     width: calc(100% / 4);
+  }
+  &:hover {
+    transform: translateY(-1%);
   }
 `;
 export const StyledCardShadow = styled.div`

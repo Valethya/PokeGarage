@@ -52,8 +52,9 @@ a{
   display: flex;
   gap: 1em;
   text-decoration: none;
+  color:#363535 ;
   &:visited{
-    color:#5a5959;
+    color:#363535 ;
   }
   &:active{
 color:#de5e4f;

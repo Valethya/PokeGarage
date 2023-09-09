@@ -20,7 +20,7 @@ export function Contact() {
   }, [prevScrollPos]);
   return (
     <StyledContact>
-      <a href="https://api.whatsapp.com/send?phone=56952420131">
+      <a href="https://api.whatsapp.com/send?phone=56952420131" target="_blank">
         <Icons type={"wtsp"} />
       </a>
     </StyledContact>

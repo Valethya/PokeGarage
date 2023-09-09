@@ -5,7 +5,7 @@ export const StyledSearchBar = styled.div`
   display: flex;
   justify-content: center;
   background: ${(props) =>
-    props.show ? "rgba(243, 243, 243, 0.44)" : "#f3f3f3"};
+    props.show ? "rgba(243, 243, 243, 0.44)" : "#C0BEC2"};
   padding: 0.5em;
   position: fixed;
   z-index: 9000;

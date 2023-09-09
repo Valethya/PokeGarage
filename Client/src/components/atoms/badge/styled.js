@@ -10,8 +10,8 @@ export const StyledBadge = styled.span`
   top: 8%;
   right: -6%;
   font-size: 100%;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
   z-index: 5000;
   @media only screen and (min-width: 768px) {
   }

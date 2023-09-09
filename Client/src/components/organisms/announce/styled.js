@@ -13,11 +13,11 @@ export const StyledAnnounce = styled.div`
   gap: 2em;
   padding: 1em;
   @media only screen and (min-width: 768px) {
-    width: 50%;
+    width: 35%;
     font-size: 12px;
   }
   @media only screen and (min-width: 960px) {
-    width: 50%;
+    width: 35%;
     font-size: 16px;
   }
 `;
