@@ -1,6 +1,6 @@
 import styled, { css } from "styled-components";
 
-export const StyledFooter = styled.div`
+export const StyledFooter = styled.footer`
   height: 10em;
   width: 100%;
   background-color: #f3f3f3;

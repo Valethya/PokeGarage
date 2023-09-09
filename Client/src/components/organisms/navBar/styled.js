@@ -1,6 +1,6 @@
 import styled, { css } from "styled-components";
 
-export const StyledNavBar = styled.div`
+export const StyledNavBar = styled.nav`
   padding-left: 1em;
   display: flex;
   flex-wrap: wrap;

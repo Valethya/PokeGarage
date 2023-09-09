@@ -1,6 +1,6 @@
 import styled, { css } from "styled-components";
 
-export const StyledAside = styled.div`
+export const StyledAside = styled.aside`
   border: 10px solid #de5e4f;
   border-style: double;
   height: 100%;
