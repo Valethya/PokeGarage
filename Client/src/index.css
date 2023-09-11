@@ -22,9 +22,11 @@ body{
     display: grid;
     justify-items: center;
       text-align: center;
-      min-height:100vh ;
+
       position: relative;
-      overflow: hidden;
+
+      min-height: 100dvh;
+      max-width: fit-content;
     }
 *{
   box-sizing: border-box;

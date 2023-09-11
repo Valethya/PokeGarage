@@ -11,9 +11,7 @@ export function Announce() {
         </StyledImage>
         <Titles
           level={"h4"}
-          text={
-            "Tambien aceptamos tus eeveelutions o evoluciona y paga con criptos"
-          }
+          text={"Has evolucionado?¡Paga con tus eeveevolutions o cripto!"}
         ></Titles>
       </StyledAnnounce>
     </>

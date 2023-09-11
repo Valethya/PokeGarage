@@ -21,7 +21,7 @@ export default function ContenCard({ variable, page, handle }) {
           <>
             {cards?.map((card) => {
               if (card.stock === true) {
-                return <Card data={card} />;
+                return <Card data={card} key={card._id} />;
               }
             })}
           </>

@@ -22,7 +22,6 @@ export const StyledFooter = styled.footer`
     color: #de5e4f;
   }
   @media only screen and (min-width: 768px) {
-    height: 8em;
     display: flex;
     flex-direction: row;
   }
@@ -31,10 +30,8 @@ export const StyledFooter = styled.footer`
 `;
 export const StyledUlFooter = styled.ul`
   display: flex;
-
   align-items: flex-start;
   flex-direction: row;
-  gap: 1em;
   display: flex;
   align-items: flex-start;
   span {

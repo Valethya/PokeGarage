@@ -10,6 +10,7 @@ import { pluralizar } from "../utils";
 export default function Catalog({ filter }) {
   document.title = filter ? pluralizar(filter) : "Home";
   ////
+  const [category, setCategory] = useState(filter);
   const [variable, setVariable] = useState({});
   const [sort, setSort] = useState();
   const [page, setPage] = useState("1");
@@ -24,6 +25,9 @@ export default function Catalog({ filter }) {
   };
 
   useEffect(() => {
+    if (filter != category) {
+      setPage("1");
+    }
     const updatedVariable = { ...variable, sort };
     if (!filter) {
       delete updatedVariable.type;

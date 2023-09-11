@@ -4,16 +4,16 @@ export const StyledAside = styled.aside`
   border: 10px solid #de5e4f;
   border-style: double;
   height: 100%;
-  width: 40%;
+  width: min-content;
   position: fixed;
   left: 0;
-  padding: 0.5em;
   background-color: #f3f3f3;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
   display: block;
   z-index: 10000;
   ul {
     margin-top: 2em;
+    padding-right: 2em;
   }
   li {
     width: 100%;
@@ -34,10 +34,8 @@ export const StyledAside = styled.aside`
   }};
   @media only screen and (min-width: 768px) {
     padding-left: 2em;
-    width: 30%;
   }
   @media only screen and (min-width: 960px) {
-    width: 15%;
   }
 `;
 export const StyledClose = styled.div`

@@ -10,11 +10,12 @@ export const StyledAnnounce = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 2em;
+
   padding: 1em;
   @media only screen and (min-width: 768px) {
-    width: 35%;
+    width: 40%;
     font-size: 12px;
+    gap: 1em;
   }
   @media only screen and (min-width: 960px) {
     width: 35%;
