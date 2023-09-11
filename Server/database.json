@@ -5,7 +5,7 @@
         "discount": 60,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Agatha.jpg"
+        "image": "/img/Agatha.webp"
     },
     {
         "name": "Appletun - 121/203",
@@ -13,7 +13,7 @@
         "discount": 60,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/appletun.jpg"
+        "image": "/img/appletun.webp"
     },
     {
         "name": "Archeops - 147/195",
@@ -21,7 +21,7 @@
         "discount": 0,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/Archeops.jpg"
+        "image": "/img/Archeops.webp"
     },
     {
         "name": "Arctibax - 059/193",
@@ -29,7 +29,7 @@
         "discount": 0,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/arctibax.jpg"
+        "image": "/img/arctibax.webp"
     },
     {
         "name": "Arezu - 153/196",
@@ -37,7 +37,7 @@
         "discount": 30,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Arezu.jpg"
+        "image": "/img/Arezu.webp"
     },
     {
         "name": "Artazon Reverse - 171/193",
@@ -45,7 +45,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Artazon Reverse.jpg"
+        "image": "/img/Artazon Reverse.webp"
     },
     {
         "name": "Artazon - 171/193",
@@ -53,7 +53,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Artazon.jpg"
+        "image": "/img/Artazon.webp"
     },
     {
         "name": "Arven - 166/198",
@@ -61,7 +61,7 @@
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Arven.jpg"
+        "image": "/img/Arven.webp"
     },
     {
         "name": "Battle vip Pass - 225/264",
@@ -69,7 +69,7 @@
         "discount": 0,
         "type": "objeto",
         "stock": false,
-        "image": "/img/Battle vip pass.jpg"
+        "image": "/img/Battle vip pass.webp"
     },
     {
         "name": "Baxcalibur 060/193",
@@ -77,7 +77,7 @@
         "discount": 60,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/baxcalibur.jpg"
+        "image": "/img/baxcalibur.webp"
     },
     {
         "name": "Beach Court - 167/198 ",
@@ -85,23 +85,23 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Beach Court.jpg"
+        "image": "/img/Beach Court.webp"
     },
     {
-        "name": "Boss's Orders Reverse Ghetsis - 172/193",
+        "name": "Bosss Orders Reverse Ghetsis - 172/193",
         "price": 1000,
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Boss's Orders Ghetsis Reverse.jpg"
+        "image": "/img/Bosss Orders Ghetsis Reverse.webp"
     },
     {
-        "name": "Boss's Orders Reverse Lysandre - 058/072",
+        "name": "Bosss Orders Reverse Lysandre - 058/072",
         "price": 1000,
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Boss's Orders Lysandre Reverse.jpg"
+        "image": "/img/Bosss Orders Lysandre Reverse.webp"
     },
     {
         "name": "Bravery Charm Reverse - 173/193",
@@ -109,7 +109,7 @@
         "discount": 20,
         "type": "herramienta",
         "stock": true,
-        "image": "/img/Bravery Charm reverse.jpg"
+        "image": "/img/Bravery Charm reverse.webp"
     },
     {
         "name": "Bruno Reverse - 121/163",
@@ -117,7 +117,7 @@
         "discount": 50,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Bruno reverse.jpg"
+        "image": "/img/Bruno reverse.webp"
     },
     {
         "name": "Bruno - 121/163",
@@ -125,7 +125,7 @@
         "discount": 60,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Bruno.jpg"
+        "image": "/img/Bruno.webp"
     },
     {
         "name": "Calamitous Snowny Mountain Reverse - 174/193",
@@ -133,7 +133,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Calamitous Snowy Mountain Reverse.jpg"
+        "image": "/img/Calamitous Snowy Mountain Reverse.webp"
     },
     {
         "name": "Calamitous Snowy Mountain - 174/193",
@@ -141,7 +141,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Calamitous Snowy Mountain.jpg"
+        "image": "/img/Calamitous Snowy Mountain.webp"
     },
     {
         "name": "Canceling Cologne - 136/189",
@@ -149,7 +149,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/canceling cologne.jpg"
+        "image": "/img/canceling cologne.webp"
     },
     {
         "name": "Capturing Aroma - 153/195",
@@ -157,15 +157,15 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Capturing aroma.jpg"
+        "image": "/img/Capturing aroma.webp"
     },
     {
-        "name": "Cheren's Care - 134/172 ",
+        "name": "Cherens Care - 134/172 ",
         "price": 500,
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Cheren's Care.jpg"
+        "image": "/img/Cherens Care.webp"
     },
     {
         "name": "Cheryl - 123/163",
@@ -173,7 +173,7 @@
         "discount": 60,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Cheryl.jpg"
+        "image": "/img/Cheryl.webp"
     },
     {
         "name": "Choice Belt - 176/193",
@@ -181,7 +181,7 @@
         "discount": 10,
         "type": "herramienta",
         "stock": true,
-        "image": "/img/Choice belt S&V.jpg"
+        "image": "/img/Choice belt S&V.webp"
     },
     {
         "name": "Choice Belt - 153/172",
@@ -189,23 +189,23 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Choice belt SWSH.jpg"
+        "image": "/img/Choice belt SWSH.webp"
     },
     {
-        "name": "Cynthia's Ambition Reverse - 128/172",
+        "name": "Cynthias Ambition Reverse - 128/172",
         "price": 1000,
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/cinthia's ambition reverse.jpg"
+        "image": "/img/cinthias ambition reverse.webp"
     },
     {
-        "name": "Cynthia's Ambition Reverse - 128/172",
+        "name": "Cynthias Ambition Reverse - 128/172",
         "price": 500,
         "discount": 60,
         "type": "partidario",
         "stock": true,
-        "image": "/img/cinthia's ambition.jpg"
+        "image": "/img/cinthias ambition.webp"
     },
     {
         "name": "Collapsed Stadium 137-172",
@@ -213,23 +213,23 @@
         "discount": 10,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Collapsed Stadium.jpg"
+        "image": "/img/Collapsed Stadium.webp"
     },
     {
-        "name": "Colress's Experiment Reverse - 155/196",
+        "name": "Colresss Experiment Reverse - 155/196",
         "price": 1000,
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/colress's experiment reverse.jpg"
+        "image": "/img/colresss experiment reverse.webp"
     },
     {
-        "name": "Colress's Experiment - 155/196",
+        "name": "Colresss Experiment - 155/196",
         "price": 500,
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/colress's experiment.jpg"
+        "image": "/img/colresss experiment.webp"
     },
     {
         "name": "Cosmoem - 024/025",
@@ -237,7 +237,7 @@
         "discount": 50,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/cosmoem.jpg"
+        "image": "/img/cosmoem.webp"
     },
     {
         "name": "Cosmog - 013/025",
@@ -245,7 +245,7 @@
         "discount": 50,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/cosmog.jpg"
+        "image": "/img/cosmog.webp"
     },
     {
         "name": "Crushing hammer reverse - 168/198",
@@ -253,7 +253,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Crushing Hammer S&V Reverse.jpg"
+        "image": "/img/Crushing Hammer S&V Reverse.webp"
     },
     {
         "name": "Crushing hammer - 168/198",
@@ -261,7 +261,7 @@
         "discount": 60,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Crushing Hammer S&V.jpg "
+        "image": "/img/Crushing Hammer S&V.webp "
     },
     {
         "name": "Crushing hammer - 125/159",
@@ -269,7 +269,7 @@
         "discount": 60,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Crushing Hammer SWSH.jpg"
+        "image": "/img/Crushing Hammer SWSH.webp"
     },
     {
         "name": "Cryogonal - 043/203",
@@ -277,7 +277,7 @@
         "discount": 60,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/cryogonal.jpg"
+        "image": "/img/cryogonal.webp"
     },
     {
         "name": "Crystal cave - 144/203",
@@ -285,7 +285,7 @@
         "discount": 40,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Crystal Cave.jpg"
+        "image": "/img/Crystal Cave.webp"
     },
     {
         "name": "Cyllene - 138/189",
@@ -293,7 +293,7 @@
         "discount": 40,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Cyllene.jpg"
+        "image": "/img/Cyllene.webp"
     },
     {
         "name": "Cynthia - 119/156",
@@ -301,7 +301,7 @@
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Cynthia.jpg"
+        "image": "/img/Cynthia.webp"
     },
     {
         "name": "Dark patch - 139/189",
@@ -309,7 +309,7 @@
         "discount": 40,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Dark Patch.jpg"
+        "image": "/img/Dark Patch.webp"
     },
     {
         "name": "Double turbo energy - 151/172",
@@ -317,7 +317,7 @@
         "discount": 30,
         "type": "energy",
         "stock": true,
-        "image": "/img/double turbo energy.jpg"
+        "image": "/img/double turbo energy.webp"
     },
     {
         "name": "Drifloon Reverse - 089/198",
@@ -325,7 +325,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/drifloon.jpg"
+        "image": "/img/drifloon.webp"
     },
     {
         "name": "Dunsparce - 207/264",
@@ -333,7 +333,7 @@
         "discount": 40,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/dunsparce.jpg"
+        "image": "/img/dunsparce.webp"
     },
     {
         "name": "durant - 010/163",
@@ -341,15 +341,15 @@
         "discount": 60,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/durant.jpg"
+        "image": "/img/durant.webp"
     },
     {
-        "name": "Elesa's sparkle - 233/264",
+        "name": "Elesas sparkle - 233/264",
         "price": 500,
         "discount": 60,
         "type": "partidario",
         "stock": true,
-        "image": "/img/elesa's sparkle.jpg"
+        "image": "/img/elesas sparkle.webp"
     },
     {
         "name": "Emergency jelly - 155/195",
@@ -357,7 +357,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Emergency jelly.jpg"
+        "image": "/img/Emergency jelly.webp"
     },
     {
         "name": "Energy recycler - 123/145",
@@ -365,7 +365,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Energy recycler Guardians rising.jpg"
+        "image": "/img/Energy recycler Guardians rising.webp"
     },
     {
         "name": "Energy recycler - 124/163",
@@ -373,7 +373,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Energy recycler.jpg"
+        "image": "/img/Energy recycler.webp"
     },
     {
         "name": "Energy retrieval reverse - 080/101",
@@ -381,7 +381,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Energy retrieval B&W Reverse.jpg"
+        "image": "/img/Energy retrieval B&W Reverse.webp"
     },
     {
         "name": "Energy retrieval - 092/114",
@@ -389,7 +389,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Energy retrieval B&W.jpg"
+        "image": "/img/Energy retrieval B&W.webp"
     },
     {
         "name": "Energy retrieval reverse - 127/159",
@@ -397,7 +397,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Energy retrieval Crown Zenith Reverse.jpg"
+        "image": "/img/Energy retrieval Crown Zenith Reverse.webp"
     },
     {
         "name": "Energy retrieval - 127/159",
@@ -405,7 +405,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Energy retrieval Crown Zenith.jpg"
+        "image": "/img/Energy retrieval Crown Zenith.webp"
     },
     {
         "name": "Energy retrieval - 116/149",
@@ -413,7 +413,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Energy retrieval S&M.jpg"
+        "image": "/img/Energy retrieval S&M.webp"
     },
     {
         "name": "Energy retrieval - 171/198",
@@ -421,7 +421,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Energy retrieval S&V.jpg"
+        "image": "/img/Energy retrieval S&V.webp"
     },
     {
         "name": "Escape rope - 114/147",
@@ -429,7 +429,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Escape rope Burning shadows.jpg"
+        "image": "/img/Escape rope Burning shadows.webp"
     },
     {
         "name": "Exp share - 126/163",
@@ -437,7 +437,7 @@
         "discount": 20,
         "type": "herramienta",
         "stock": true,
-        "image": "/img/Exp share battle style.jpg"
+        "image": "/img/Exp share battle style.webp"
     },
     {
         "name": "Exp share reverse - 128/160",
@@ -445,7 +445,7 @@
         "discount": 20,
         "type": "herramienta",
         "stock": true,
-        "image": "/img/Exp share Primal Clash reverse.jpg"
+        "image": "/img/Exp share Primal Clash reverse.webp"
     },
     {
         "name": "Exp share - 118/149",
@@ -453,7 +453,7 @@
         "discount": 20,
         "type": "herramienta",
         "stock": true,
-        "image": "/img/Exp share S&M.jpg"
+        "image": "/img/Exp share S&M.webp"
     },
     {
         "name": "Exp share reverse - 080/101",
@@ -461,7 +461,7 @@
         "discount": 20,
         "type": "herramienta",
         "stock": true,
-        "image": "/img/Exp share S&V Reverse.jpg"
+        "image": "/img/Exp share S&V Reverse.webp"
     },
     {
         "name": "Fan of waves - 127/163",
@@ -469,7 +469,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Fan of waves.jpg"
+        "image": "/img/Fan of waves.webp"
     },
     {
         "name": "Flaffy - 055/203",
@@ -477,7 +477,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/Flaffy dinamotor.jpg"
+        "image": "/img/Flaffy dinamotor.webp"
     },
     {
         "name": "Flamingo - 170/193",
@@ -485,7 +485,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/flamingo.jpg"
+        "image": "/img/flamingo.webp"
     },
     {
         "name": "Fog Crystal - 140/198",
@@ -493,7 +493,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Fog Crystal.jpg"
+        "image": "/img/Fog Crystal.webp"
     },
     {
         "name": "Frigibax - 058/193",
@@ -501,7 +501,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/frigibax.jpg"
+        "image": "/img/frigibax.webp"
     },
     {
         "name": "Full face guard - 148/203",
@@ -509,7 +509,7 @@
         "discount": 20,
         "type": "herramienta",
         "stock": true,
-        "image": "/img/Full face guard.jpg"
+        "image": "/img/Full face guard.webp"
     },
     {
         "name": "Furoside girl - 157/195",
@@ -517,7 +517,7 @@
         "discount": 40,
         "type": "partidario",
         "stock": true,
-        "image": "/img/furoside girl.jpg"
+        "image": "/img/furoside girl.webp"
     },
     {
         "name": "Fusion strike energy - 244/264",
@@ -525,7 +525,7 @@
         "discount": 60,
         "type": "energia",
         "stock": true,
-        "image": "/img/Fusion strike energy.jpg"
+        "image": "/img/Fusion strike energy.webp"
     },
     {
         "name": "Gapejaw bog - 142/189",
@@ -533,23 +533,23 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Gapejaw Bog.jpg"
+        "image": "/img/Gapejaw Bog.webp"
     },
     {
-        "name": "Gardenia's vigor - 143/189",
+        "name": "Gardenias vigor - 143/189",
         "price": 500,
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/gardenia's vigor.jpg"
+        "image": "/img/gardenias vigor.webp"
     },
     {
-        "name": "Gardenia's vigor reverse - 142/189",
+        "name": "Gardenias vigor reverse - 142/189",
         "price": 1000,
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/gardenia's vigor reverse.jpg"
+        "image": "/img/gardenias vigor reverse.webp"
     },
     {
         "name": "Gift energy - 171/196",
@@ -557,7 +557,7 @@
         "discount": 10,
         "type": "energia",
         "stock": true,
-        "image": "/img/Gift energy.jpg"
+        "image": "/img/Gift energy.webp"
     },
     {
         "name": "Gloria - 141/172",
@@ -565,7 +565,7 @@
         "discount": 60,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Gloria.jpg"
+        "image": "/img/Gloria.webp"
     },
     {
         "name": "Grant - 144/189",
@@ -573,7 +573,7 @@
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Grant.jpg"
+        "image": "/img/Grant.webp"
     },
     {
         "name": "Gusty pickaxe - 145/189",
@@ -581,7 +581,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Gusty Pickaxe.jpg"
+        "image": "/img/Gusty Pickaxe.webp"
     },
     {
         "name": "Hawlucha - 118/198",
@@ -589,7 +589,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/hawlucha.jpg"
+        "image": "/img/hawlucha.webp"
     },
     {
         "name": "Hisuian heavy ball - 146/189",
@@ -597,7 +597,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Hisuian Heavy Ball.jpg"
+        "image": "/img/Hisuian Heavy Ball.webp"
     },
     {
         "name": "Impact energy  - 157/198",
@@ -605,7 +605,7 @@
         "discount": 20,
         "type": "energia",
         "stock": true,
-        "image": "/img/Impact energy.jpg"
+        "image": "/img/Impact energy.webp"
     },
     {
         "name": "Jet energy - 190/1193",
@@ -613,7 +613,7 @@
         "discount": 20,
         "type": "energia",
         "stock": true,
-        "image": "/img/Jet Energy.jpg"
+        "image": "/img/Jet Energy.webp"
     },
     {
         "name": "Lake acuity - 160/196",
@@ -621,7 +621,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Lake Acuity.jpg"
+        "image": "/img/Lake Acuity.webp"
     },
     {
         "name": "Leafy camo poncho - 160/195",
@@ -629,7 +629,7 @@
         "discount": 10,
         "type": "herramienta",
         "stock": true,
-        "image": "/img/Leafy camo poncho.jpg"
+        "image": "/img/Leafy camo poncho.webp"
     },
     {
         "name": "Level ball - 076/098",
@@ -637,7 +637,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Level ball Ancient origins.jpg"
+        "image": "/img/Level ball Ancient origins.webp"
     },
     {
         "name": "Level ball - 129/163",
@@ -645,7 +645,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Level Ball Battle Styles.jpg"
+        "image": "/img/Level Ball Battle Styles.webp"
     },
     {
         "name": "Liepard holo - 091/172",
@@ -653,7 +653,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/liepard reverse.jpg"
+        "image": "/img/liepard reverse.webp"
     },
     {
         "name": "Liepard - 091/172",
@@ -661,7 +661,7 @@
         "discount": 10,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/liepard.jpg"
+        "image": "/img/liepard.webp"
     },
     {
         "name": "Lost city - 161/196",
@@ -669,7 +669,7 @@
         "discount": 0,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Lost city.jpg"
+        "image": "/img/Lost city.webp"
     },
     {
         "name": "Lost vacuum - 135/159",
@@ -677,7 +677,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Lost Vacuum Crown Zenith.jpg"
+        "image": "/img/Lost Vacuum Crown Zenith.webp"
     },
     {
         "name": "Lost vacuum - 162/196",
@@ -685,7 +685,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Lost Vacuum Lost Origin.jpg"
+        "image": "/img/Lost Vacuum Lost Origin.webp"
     },
     {
         "name": "Lucky energy - 158/198",
@@ -693,7 +693,7 @@
         "discount": 20,
         "type": "energia",
         "stock": true,
-        "image": "/img/Lucky energy.jpg"
+        "image": "/img/Lucky energy.webp"
     },
     {
         "name": "Luminous energy - 191/193",
@@ -701,7 +701,7 @@
         "discount": 10,
         "type": "energia",
         "stock": true,
-        "image": "/img/Luminous energy.jpg"
+        "image": "/img/Luminous energy.webp"
     },
     {
         "name": "Lunala - 015/025",
@@ -709,7 +709,7 @@
         "discount": 40,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/lunala.jpg"
+        "image": "/img/lunala.webp"
     },
     {
         "name": "Luxray - 071/193",
@@ -717,7 +717,7 @@
         "discount": 10,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/Luxray swelling flash.jpg"
+        "image": "/img/Luxray swelling flash.webp"
     },
     {
         "name": "Klara - 145/198",
@@ -725,7 +725,7 @@
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Klara.jpg"
+        "image": "/img/Klara.webp"
     },
     {
         "name": "Klefki - 096/198",
@@ -733,23 +733,23 @@
         "discount": 0,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/klefki.jpg"
+        "image": "/img/klefki.webp"
     },
     {
-        "name": "Korrina's Focus Reverse - 128/163",
+        "name": "Korrinas Focus Reverse - 128/163",
         "price": 1000,
         "discount": 40,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Korrina's Focus reverse.jpg"
+        "image": "/img/Korrinas Focus reverse.webp"
     },
     {
-        "name": "Korrina's Focus - 128/163",
+        "name": "Korrinas Focus - 128/163",
         "price": 500,
         "discount": 60,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Korrina's Focus.jpg"
+        "image": "/img/Korrinas Focus.webp"
     },
     {
         "name": "Kricketune - 010/189",
@@ -757,7 +757,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/kricketune.jpg"
+        "image": "/img/kricketune.webp"
     },
     {
         "name": "Kyogre - 003/025",
@@ -765,7 +765,7 @@
         "discount": 40,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/kyogre.jpg"
+        "image": "/img/kyogre.webp"
     },
     {
         "name": "Magma basin - 144/172",
@@ -773,7 +773,7 @@
         "discount": 60,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Magma Basin.jpg"
+        "image": "/img/Magma Basin.webp"
     },
     {
         "name": "Meloetta - 124/264",
@@ -781,7 +781,7 @@
         "discount": 40,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/meloetta.jpg"
+        "image": "/img/meloetta.webp"
     },
     {
         "name": "Melony - 146/198",
@@ -789,7 +789,7 @@
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/melony.jpg"
+        "image": "/img/melony.webp"
     },
     {
         "name": "Mesagoza Reverse - 174/198",
@@ -797,7 +797,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Mesagoza Reverse.jpg"
+        "image": "/img/Mesagoza Reverse.webp"
     },
     {
         "name": "Mesagoza - 174/198",
@@ -805,7 +805,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Mesagoza.jpg"
+        "image": "/img/Mesagoza.webp"
     },
     {
         "name": "Mew - 011/025",
@@ -813,7 +813,7 @@
         "discount": 50,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/mew.jpg"
+        "image": "/img/mew.webp"
     },
     {
         "name": "Mightyena - 096/189",
@@ -821,7 +821,7 @@
         "discount": 60,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/mightyena.jpg"
+        "image": "/img/mightyena.webp"
     },
     {
         "name": "Milotic - 038/203",
@@ -829,7 +829,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/milotic.jpg"
+        "image": "/img/milotic.webp"
     },
     {
         "name": "Mimikyu Holo - 097/193",
@@ -837,7 +837,7 @@
         "discount": 0,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/mimikyu.jpg"
+        "image": "/img/mimikyu.webp"
     },
     {
         "name": "Mirage gate - 163/196",
@@ -845,7 +845,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Mirage gate.jpg"
+        "image": "/img/Mirage gate.webp"
     },
     {
         "name": "Miriam - 179/198",
@@ -853,7 +853,7 @@
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/miriam.jpg"
+        "image": "/img/miriam.webp"
     },
     {
         "name": "Mismagius - 064/195",
@@ -861,7 +861,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/mismagius.jpg"
+        "image": "/img/mismagius.webp"
     },
     {
         "name": "Miss fortune sisters Reverse - 164/196",
@@ -869,7 +869,7 @@
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/miss fortune sisters reverse.jpg"
+        "image": "/img/miss fortune sisters reverse.webp"
     },
     {
         "name": "Miss fortune sisters - 164/196",
@@ -877,7 +877,7 @@
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/miss fortune sisters.jpg"
+        "image": "/img/miss fortune sisters.webp"
     },
     {
         "name": "Murkrow - 131/193",
@@ -885,7 +885,7 @@
         "discount": 10,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/murkrow.jpg"
+        "image": "/img/murkrow.webp"
     },
     {
         "name": "Mustard RSS Reverse - 132/163",
@@ -893,7 +893,7 @@
         "discount": 40,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Mustard RSS Reverse.jpg"
+        "image": "/img/Mustard RSS Reverse.webp"
     },
     {
         "name": "Mustard RSS - 132/163",
@@ -901,7 +901,7 @@
         "discount": 60,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Mustard RSS.jpg"
+        "image": "/img/Mustard RSS.webp"
     },
     {
         "name": "Mustard SSS - 134/163",
@@ -909,7 +909,7 @@
         "discount": 60,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Mustard SSS.jpg"
+        "image": "/img/Mustard SSS.webp"
     },
     {
         "name": "Nest ball - 123/149",
@@ -917,7 +917,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Nest Ball S&M.jpg"
+        "image": "/img/Nest Ball S&M.webp"
     },
     {
         "name": "Old cemetery - 147/198",
@@ -925,7 +925,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Old cemetery.jpg"
+        "image": "/img/Old cemetery.webp"
     },
     {
         "name": "Oricorio - 042/264",
@@ -933,7 +933,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/Oricorio de fuego.jpg"
+        "image": "/img/Oricorio de fuego.webp"
     },
     {
         "name": "Pal Pad Reverse - 182/198",
@@ -941,7 +941,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Pal Pad Reverse S&V.jpg"
+        "image": "/img/Pal Pad Reverse S&V.webp"
     },
     {
         "name": "Pal pad - 182/198",
@@ -949,7 +949,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Pal Pad S&V.jpg"
+        "image": "/img/Pal Pad S&V.webp"
     },
     {
         "name": "Pal pad - 172/202",
@@ -957,7 +957,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Pal Pad SWSH.jpg"
+        "image": "/img/Pal Pad SWSH.webp"
     },
     {
         "name": "Path to the peak - 148/198",
@@ -965,7 +965,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Path to the peak.jpg"
+        "image": "/img/Path to the peak.webp"
     },
     {
         "name": "Penny - 183/198",
@@ -973,7 +973,7 @@
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/penny.jpg"
+        "image": "/img/penny.webp"
     },
     {
         "name": "Peony Reverse - 150/198",
@@ -981,7 +981,7 @@
         "discount": 40,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Peony Reverse.jpg"
+        "image": "/img/Peony Reverse.webp"
     },
     {
         "name": "Peony - 150/198",
@@ -989,7 +989,7 @@
         "discount": 60,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Peony.jpg"
+        "image": "/img/Peony.webp"
     },
     {
         "name": "Primordial altar - 161/195",
@@ -997,7 +997,7 @@
         "discount": 40,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Pimordial altar.jpg"
+        "image": "/img/Pimordial altar.webp"
     },
     {
         "name": "Pokegear 3.0 - 186/198",
@@ -1005,7 +1005,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Pokegear 3.0 S&V.jpg"
+        "image": "/img/Pokegear 3.0 S&V.webp"
     },
     {
         "name": "Pokegear 3.0 - 174/202",
@@ -1013,7 +1013,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Pokegear 3.0 SHSW.jpg"
+        "image": "/img/Pokegear 3.0 SHSW.webp"
     },
     {
         "name": "Pokegear 3.0 - 182/214",
@@ -1021,7 +1021,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Pokegear 3.0 Unbroken Bonds.jpg"
+        "image": "/img/Pokegear 3.0 Unbroken Bonds.webp"
     },
     {
         "name": "Pokestop - 068/078",
@@ -1029,7 +1029,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Pokestop.jpg"
+        "image": "/img/Pokestop.webp"
     },
     {
         "name": "Power tablet - 236/264",
@@ -1037,7 +1037,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Power tablet.jpg"
+        "image": "/img/Power tablet.webp"
     },
     {
         "name": "Professor burnet - SWSH167",
@@ -1045,63 +1045,63 @@
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/professor burnet.jpg"
+        "image": "/img/professor burnet.webp"
     },
     {
-        "name": "Professor's research Magnolia Holo - 062/073",
+        "name": "Professors research Magnolia Holo - 062/073",
         "price": 1000,
         "discount": 40,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Professor research Magnolia Holo.jpg"
+        "image": "/img/Professor research Magnolia Holo.webp"
     },
     {
-        "name": "Professor's research Magnolia - 178/202",
+        "name": "Professors research Magnolia - 178/202",
         "price": 500,
         "discount": 60,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Professor research Magnolia.jpg"
+        "image": "/img/Professor research Magnolia.webp"
     },
     {
-        "name": "Professor's research Sada Holo - 189/198",
+        "name": "Professors research Sada Holo - 189/198",
         "price": 1000,
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Professor research Sada Holo.jpg"
+        "image": "/img/Professor research Sada Holo.webp"
     },
     {
-        "name": "Professor's research Sada Reverse - 189/198",
+        "name": "Professors research Sada Reverse - 189/198",
         "price": 1000,
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Professor research Sada Reverse.jpg"
+        "image": "/img/Professor research Sada Reverse.webp"
     },
     {
-        "name": "Professor's research Juniper - 060/072",
+        "name": "Professors research Juniper - 060/072",
         "price": 500,
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/professor's research Juniper.png"
+        "image": "/img/professors research Juniper.png"
     },
     {
-        "name": "Professor's research Oak Holo - 023/025",
+        "name": "Professors research Oak Holo - 023/025",
         "price": 1000,
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Professor's Research Oak.jpg"
+        "image": "/img/Professors Research Oak.webp"
     },
     {
-        "name": "Professor's research Turo Holo - 023/025",
+        "name": "Professors research Turo Holo - 023/025",
         "price": 1000,
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Professor research Turo Holo.jpg"
+        "image": "/img/Professor research Turo Holo.webp"
     },
     {
         "name": "Pumpkaboo - 076/203",
@@ -1109,7 +1109,7 @@
         "discount": 10,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/pumpkaboo.jpg"
+        "image": "/img/pumpkaboo.webp"
     },
     {
         "name": "Raihan Holo - 140/159",
@@ -1117,7 +1117,7 @@
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Raihan carta firmada.jpg"
+        "image": "/img/Raihan carta firmada.webp"
     },
     {
         "name": "Raihan - 152/203",
@@ -1125,7 +1125,7 @@
         "discount": 20,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Raihan.jpg"
+        "image": "/img/Raihan.webp"
     },
     {
         "name": "Ralts - 067/195",
@@ -1133,7 +1133,7 @@
         "discount": 10,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/ralts.jpg"
+        "image": "/img/ralts.webp"
     },
     {
         "name": "Rapid strike energy - 140/163",
@@ -1141,7 +1141,7 @@
         "discount": 20,
         "type": "energia",
         "stock": true,
-        "image": "/img/Rapid Strike energy.jpg"
+        "image": "/img/Rapid Strike energy.webp"
     },
     {
         "name": "Rare candy - 142/168",
@@ -1149,7 +1149,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Rare Candy Celestial Storm.jpg"
+        "image": "/img/Rare Candy Celestial Storm.webp"
     },
     {
         "name": "Rare candy - 069/078",
@@ -1157,7 +1157,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Rare Candy Go.jpg"
+        "image": "/img/Rare Candy Go.webp"
     },
     {
         "name": "Rare candy Reverse - 141/159",
@@ -1165,7 +1165,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Rare Candy holo 2020.jpg"
+        "image": "/img/Rare Candy holo 2020.webp"
     },
     {
         "name": "Rare candy - 129/149",
@@ -1173,7 +1173,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Rare candy S&M.jpg"
+        "image": "/img/Rare candy S&M.webp"
     },
     {
         "name": "Rare candy - 191/198",
@@ -1181,7 +1181,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Rare candy S&V.jpg"
+        "image": "/img/Rare candy S&V.webp"
     },
     {
         "name": "Regenerative energy - 168/195",
@@ -1189,7 +1189,7 @@
         "discount": 20,
         "type": "energia",
         "stock": true,
-        "image": "/img/Regenerative energy.jpg"
+        "image": "/img/Regenerative energy.webp"
     },
     {
         "name": "Regenerative energy Reverse - 168/195",
@@ -1197,7 +1197,7 @@
         "discount": 20,
         "type": "energia",
         "stock": true,
-        "image": "/img/Regenerative energy reverse.jpg"
+        "image": "/img/Regenerative energy reverse.webp"
     },
     {
         "name": "Regidrago - 118/189",
@@ -1205,7 +1205,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/regidrago.jpg"
+        "image": "/img/regidrago.webp"
     },
     {
         "name": "Regirock - 075/189",
@@ -1213,7 +1213,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/Regirock.jpg"
+        "image": "/img/Regirock.webp"
     },
     {
         "name": "Registeel - 108/189",
@@ -1221,7 +1221,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/registeel.jpg"
+        "image": "/img/registeel.webp"
     },
     {
         "name": "Rescue carrier - 142/159",
@@ -1229,7 +1229,7 @@
         "discount": 60,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Rescue Carrier Crown zenith.jpg"
+        "image": "/img/Rescue Carrier Crown zenith.webp"
     },
     {
         "name": "Rescue carrier - 154/203",
@@ -1237,7 +1237,7 @@
         "discount": 60,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Rescue Carrier Evolving skies.jpg"
+        "image": "/img/Rescue Carrier Evolving skies.webp"
     },
     {
         "name": "Rescue carrier Reverse - 154/203",
@@ -1245,7 +1245,7 @@
         "discount": 40,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Rescue Carrier reverse evolving skies.jpg"
+        "image": "/img/Rescue Carrier reverse evolving skies.webp"
     },
     {
         "name": "Reversal energy - 192/193",
@@ -1253,7 +1253,7 @@
         "discount": 20,
         "type": "energia",
         "stock": true,
-        "image": "/img/Reversal Energy.jpg"
+        "image": "/img/Reversal Energy.webp"
     },
     {
         "name": "Reversal energy Reverse - 192/193",
@@ -1261,15 +1261,15 @@
         "discount": 20,
         "type": "energia",
         "stock": true,
-        "image": "/img/1781322.jpg"
+        "image": "/img/1781322.webp"
     },
     {
-        "name": "Roseanne's backup - 148/172",
+        "name": "Roseannes backup - 148/172",
         "price": 500,
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/rosseanne's backup.jpg"
+        "image": "/img/rosseannes backup.webp"
     },
     {
         "name": "Roxanne - 150/189",
@@ -1277,7 +1277,7 @@
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/roxanne.jpg"
+        "image": "/img/roxanne.webp"
     },
     {
         "name": "Scroll of scorn - 133/163",
@@ -1285,7 +1285,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Scroll of scorn.jpg"
+        "image": "/img/Scroll of scorn.webp"
     },
     {
         "name": "Serena - 164/195",
@@ -1293,7 +1293,7 @@
         "discount": 30,
         "type": "partidario",
         "stock": true,
-        "image": "/img/serena.jpg"
+        "image": "/img/serena.webp"
     },
     {
         "name": "Single Strike Energy - 141/163",
@@ -1301,7 +1301,7 @@
         "discount": 20,
         "type": "energia",
         "stock": true,
-        "image": "/img/Single Strike Energy.jpg"
+        "image": "/img/Single Strike Energy.webp"
     },
     {
         "name": "Skwovet Reverse - 151/198",
@@ -1309,7 +1309,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/skwovet reverse.jpg"
+        "image": "/img/skwovet reverse.webp"
     },
     {
         "name": "Skwovet - 151/198",
@@ -1317,7 +1317,7 @@
         "discount": 10,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/skwovet.jpg"
+        "image": "/img/skwovet.webp"
     },
     {
         "name": "Slowbro Reverse - 020/078",
@@ -1325,7 +1325,7 @@
         "discount": 40,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/slowbro reverse.jpg"
+        "image": "/img/slowbro reverse.webp"
     },
     {
         "name": "Slowbro - 020/078",
@@ -1333,7 +1333,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/slowbro.jpg"
+        "image": "/img/slowbro.webp"
     },
     {
         "name": "Spiral energy - 159/196",
@@ -1341,7 +1341,7 @@
         "discount": 20,
         "type": "energia",
         "stock": true,
-        "image": "/img/Spiral energy.jpg"
+        "image": "/img/Spiral energy.webp"
     },
     {
         "name": "Stonjourner - 084/163",
@@ -1349,7 +1349,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/stonjourner.jpg"
+        "image": "/img/stonjourner.webp"
     },
     {
         "name": "Stormy mountains - 161/203",
@@ -1357,7 +1357,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Stormy Mountains.jpg"
+        "image": "/img/Stormy Mountains.webp"
     },
     {
         "name": "Super rod - 188/193",
@@ -1365,7 +1365,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Super rod.jpg"
+        "image": "/img/Super rod.webp"
     },
     {
         "name": "Superior energy retrival - 189/193",
@@ -1373,7 +1373,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Superior Energy Retrieval.jpg"
+        "image": "/img/Superior Energy Retrieval.webp"
     },
     {
         "name": "Switch - 104/114",
@@ -1381,7 +1381,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Switch B&W.jpg"
+        "image": "/img/Switch B&W.webp"
     },
     {
         "name": "Switch cart - 154/189",
@@ -1389,7 +1389,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Switch cart.jpg"
+        "image": "/img/Switch cart.webp"
     },
     {
         "name": "Switch - 147/168",
@@ -1397,7 +1397,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Switch Celestial Storm.jpg"
+        "image": "/img/Switch Celestial Storm.webp"
     },
     {
         "name": "Switch - 091/108",
@@ -1405,7 +1405,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Switch Roaring skies.jpg"
+        "image": "/img/Switch Roaring skies.webp"
     },
     {
         "name": "Switch - 132/149",
@@ -1413,7 +1413,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Switch S&M.jpg"
+        "image": "/img/Switch S&M.webp"
     },
     {
         "name": "Switch - 93/100",
@@ -1421,7 +1421,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Switch Stormfront.jpg"
+        "image": "/img/Switch Stormfront.webp"
     },
     {
         "name": "Switch Reverse - 194/198",
@@ -1429,7 +1429,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Switch S&V Reverse.jpg"
+        "image": "/img/Switch S&V Reverse.webp"
     },
     {
         "name": "Switch - 194/198",
@@ -1437,7 +1437,7 @@
         "discount": 20,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Switch S&V.jpg"
+        "image": "/img/Switch S&V.webp"
     },
     {
         "name": "Temple of sinnoh - 155/189",
@@ -1445,7 +1445,7 @@
         "discount": 10,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Temple Of Sinnoh.jpg"
+        "image": "/img/Temple Of Sinnoh.webp"
     },
     {
         "name": "Therapeutic energy - 193/193",
@@ -1453,7 +1453,7 @@
         "discount": 10,
         "type": "energia",
         "stock": true,
-        "image": "/img/Therapeutic Energy.jpg"
+        "image": "/img/Therapeutic Energy.webp"
     },
     {
         "name": "Thorton - 167/196",
@@ -1461,7 +1461,7 @@
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Thorton.jpg"
+        "image": "/img/Thorton.webp"
     },
     {
         "name": "Tool jammer - 136/163",
@@ -1469,7 +1469,7 @@
         "discount": 60,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Tool jammer.jpg"
+        "image": "/img/Tool jammer.webp"
     },
     {
         "name": "Tool jammer Reverse - 136/163",
@@ -1477,7 +1477,7 @@
         "discount": 50,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Tool jammer reverse.jpg"
+        "image": "/img/Tool jammer reverse.webp"
     },
     {
         "name": "Tower of waters - 138/163",
@@ -1485,7 +1485,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Tower of Waters.jpg"
+        "image": "/img/Tower of Waters.webp"
     },
     {
         "name": "Tower of waters Reverse - 138/163",
@@ -1493,7 +1493,7 @@
         "discount": 20,
         "type": "estadio",
         "stock": true,
-        "image": "/img/Tower of Waters reverse.jpg"
+        "image": "/img/Tower of Waters reverse.webp"
     },
     {
         "name": "Trekking shoes - 156/189",
@@ -1501,7 +1501,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Trekking shoes Astral Radiance.jpg"
+        "image": "/img/Trekking shoes Astral Radiance.webp"
     },
     {
         "name": "Trekking shoes - 145/159",
@@ -1509,7 +1509,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Trekking shoes Crown Zenith.jpg"
+        "image": "/img/Trekking shoes Crown Zenith.webp"
     },
     {
         "name": "Ultra ball - 150/172",
@@ -1517,7 +1517,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Ultra ball Brilliant Stars.jpg"
+        "image": "/img/Ultra ball Brilliant Stars.webp"
     },
     {
         "name": "Ultra ball - 146/159",
@@ -1525,7 +1525,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Ultra ball Crown Zenith.jpg"
+        "image": "/img/Ultra ball Crown Zenith.webp"
     },
     {
         "name": "Ultra ball - 093/108",
@@ -1533,7 +1533,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Ultra ball roaring skies.jpg"
+        "image": "/img/Ultra ball roaring skies.webp"
     },
     {
         "name": "Ultra ball - 135/149",
@@ -1541,7 +1541,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Ultra ball S&M.jpg"
+        "image": "/img/Ultra ball S&M.webp"
     },
     {
         "name": "Ultra ball - 196/198",
@@ -1549,7 +1549,7 @@
         "discount": 10,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Ultra ball S&V.jpg"
+        "image": "/img/Ultra ball S&V.webp"
     },
     {
         "name": "Urn of vitality - 139/163",
@@ -1557,7 +1557,7 @@
         "discount": 60,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Urn of vitality.jpg"
+        "image": "/img/Urn of vitality.webp"
     },
     {
         "name": "Urn of vitality Reverse - 139/163",
@@ -1565,7 +1565,7 @@
         "discount": 50,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Urn of vitality reverse.jpg"
+        "image": "/img/Urn of vitality reverse.webp"
     },
     {
         "name": "Welcoming latern - 156/198",
@@ -1573,7 +1573,7 @@
         "discount": 60,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Welcoming lantern.jpg"
+        "image": "/img/Welcoming lantern.webp"
     },
     {
         "name": "Welcoming latern Reverse - 156/198",
@@ -1581,7 +1581,7 @@
         "discount": 50,
         "type": "objeto",
         "stock": true,
-        "image": "/img/Welcoming lantern reverse.jpg"
+        "image": "/img/Welcoming lantern reverse.webp"
     },
     {
         "name": "Wobbufet - 066/203",
@@ -1589,7 +1589,7 @@
         "discount": 40,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/wobbuffet.jpg"
+        "image": "/img/wobbuffet.webp"
     },
     {
         "name": "Worker - 167/195",
@@ -1597,7 +1597,7 @@
         "discount": 10,
         "type": "partidario",
         "stock": true,
-        "image": "/img/worker.jpg"
+        "image": "/img/worker.webp"
     },
     {
         "name": "Yveltal - 175/264",
@@ -1605,15 +1605,15 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/yveltal.jpg"
+        "image": "/img/yveltal.webp"
     },
     {
-        "name": "Zinnia's resolve - 164/203",
+        "name": "Zinnias resolve - 164/203",
         "price": 500,
         "discount": 40,
         "type": "partidario",
         "stock": true,
-        "image": "/img/Zinnia's Resolve.jpg"
+        "image": "/img/Zinnias Resolve.webp"
     },
     {
         "name": "Rayquaza EX - XY66",
@@ -1621,7 +1621,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/Rayquaza ex promo.jpg"
+        "image": "/img/Rayquaza ex promo.webp"
     },
     {
         "name": "Rayquaza EX - 60/108",
@@ -1629,7 +1629,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/Rayquaza ex.jpg"
+        "image": "/img/Rayquaza ex.webp"
     },
     {
         "name": "Thundurus EX - 26/108",
@@ -1637,7 +1637,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/Thundurus ex.jpg"
+        "image": "/img/Thundurus ex.webp"
     },
     {
         "name": "Crobat V - 104/189",
@@ -1645,7 +1645,7 @@
         "discount": 20,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/Crobat V.jpg"
+        "image": "/img/Crobat V.webp"
     },
     {
         "name": "Surfing Pikachu - 111/108",
@@ -1653,6 +1653,6 @@
         "discount": 0,
         "type": "pokemon",
         "stock": true,
-        "image": "/img/Surfing pikachu.jpg"
+        "image": "/img/Surfing pikachu.webp"
     }
 ]
