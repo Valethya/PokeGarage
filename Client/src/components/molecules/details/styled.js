@@ -13,6 +13,16 @@ export const StyledDetails = styled.div`
     margin-left: 1em;
     margin-right: 1em;
     color: #363535;
+    &:hover {
+      font-size: 80%;
+    }
+    @media only screen and (min-width: 500px) {
+      h4 {
+        &:hover {
+          font-size: 14px;
+        }
+      }
+    }
   }
 `;
 export const StyledText = styled.div`

@@ -25,10 +25,13 @@ export default function Catalog({ filter }) {
   };
 
   useEffect(() => {
+    const updatedVariable = { ...variable, sort };
     if (filter != category) {
+      delete updatedVariable.name;
+      setInputValue("");
       setPage("1");
     }
-    const updatedVariable = { ...variable, sort };
+
     if (!filter) {
       delete updatedVariable.type;
       delete updatedVariable.name;
@@ -37,8 +40,8 @@ export default function Catalog({ filter }) {
     if (filter) {
       updatedVariable.type = type[filter] ? filter : variable.type;
     }
-
     setVariable(updatedVariable);
+    console.log("esto es: ", updatedVariable);
   }, [sort, filter]);
 
   const options = [
@@ -100,6 +103,7 @@ export default function Catalog({ filter }) {
   const handleInputChange = (event) => {
     setInputValue(event.target.value);
   };
+  console.log(inputValue, " holis");
   return (
     <>
       <SearchBar>
@@ -109,6 +113,7 @@ export default function Catalog({ filter }) {
           handle={handleSearch}
           click={clickSearch}
           change={handleInputChange}
+          value={inputValue}
         />
 
         <Select options={options} onSelect={handleSelect} />

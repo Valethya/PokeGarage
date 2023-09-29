@@ -2,7 +2,7 @@ import styled, { css } from "styled-components";
 
 export const StyledContact = styled.div`
   position: sticky;
-  transform: translate(50vw, -4em);
+  transform: translate(50vw, -5em);
   bottom: -4.5em;
   right: 1em;
   font-size: 30px;

@@ -6,6 +6,7 @@ export const StyledContentCard = styled.div`
   width: 90%;
   margin-top: 10em;
   position: relative;
+  min-height: calc(100vh - 20em);
   /* margin-bottom: 8em; */
   @media only screen and (min-width: 768px) {
     width: 80%;

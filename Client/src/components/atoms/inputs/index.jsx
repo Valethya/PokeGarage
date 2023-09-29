@@ -1,7 +1,9 @@
+import { useEffect } from "react";
 import Icons from "../icons";
 import { StyledInput, StyledInputIcons } from "./styled";
+import { VariablesAreInputTypesRule } from "graphql";
 
-export function Input({ type, label, icon, handle, click, change }) {
+export function Input({ type, label, icon, handle, click, change, value }) {
   return (
     <>
       {label ? (
@@ -12,7 +14,12 @@ export function Input({ type, label, icon, handle, click, change }) {
         </label>
       ) : (
         <StyledInputIcons>
-          <StyledInput type={type} onKeyDown={handle} onChange={change} />
+          <StyledInput
+            type={type}
+            onKeyDown={handle}
+            onChange={change}
+            value={value}
+          />
           <Icons type={icon} handle={click} />
         </StyledInputIcons>
       )}

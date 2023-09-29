@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { formatCurrencyCLP } from "../../../utils";
 import Badge from "../../atoms/badge";
 import { Image } from "../../atoms/image";
@@ -10,7 +11,7 @@ export default function Card({ data }) {
       <StyledCardShadow>
         <StyledImageCard>
           {data.discount > 0 && <Badge>{data.discount}%</Badge>}
-          <Image src={data.image} />
+          <Image src={data.image} name={data.title} />
         </StyledImageCard>
 
         <Details text={data.name}>
