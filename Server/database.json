@@ -220,7 +220,7 @@
         "price": 1000,
         "discount": 20,
         "type": "partidario",
-        "stock": true,
+        "stock": false,
         "image": "/img/colresss experiment reverse.webp"
     },
     {
@@ -228,7 +228,7 @@
         "price": 500,
         "discount": 20,
         "type": "partidario",
-        "stock": true,
+        "stock": false,
         "image": "/img/colresss experiment.webp"
     },
     {
@@ -668,7 +668,7 @@
         "price": 1000,
         "discount": 20,
         "type": "estadio",
-        "stock": true,
+        "stock": false,
         "image": "/img/Lost city.webp"
     },
     {
@@ -828,7 +828,7 @@
         "price": 500,
         "discount": 60,
         "type": "pokemon",
-        "stock": true,
+        "stock": false,
         "image": "/img/milotic.webp"
     },
     {
@@ -844,7 +844,7 @@
         "price": 1000,
         "discount": 20,
         "type": "objeto",
-        "stock": true,
+        "stock": false,
         "image": "/img/Mirage gate.webp"
     },
     {
@@ -1292,7 +1292,7 @@
         "price": 1000,
         "discount": 20,
         "type": "partidario",
-        "stock": true,
+        "stock": false,
         "image": "/img/serena.webp"
     },
     {
@@ -1364,7 +1364,7 @@
         "price": 500,
         "discount": 20,
         "type": "objeto",
-        "stock": true,
+        "stock": false,
         "image": "/img/Super rod.webp"
     },
     {
@@ -1870,5 +1870,165 @@
         "type": "partidario",
         "stock": true,
         "image": "/img/Giacomo reverse.webp"
+    },
+    {
+        "name": "Adaman - 135/189",
+        "price": 500,
+        "discount": 40,
+        "type": "partidario",
+        "stock": true,
+        "image": "/img/Adaman.webp"
+    },
+    {
+        "name": "Purrloin Reverse - 090/172",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Purrloin reverse.webp"
+    },
+    {
+        "name": "Purrloin - 090/172",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Purrloin.webp"
+    },
+    {
+        "name": "Judge - 235/264",
+        "price": 500,
+        "discount": 20,
+        "type": "partidario",
+        "stock": true,
+        "image": "/img/Judge.webp"
+    },
+    {
+        "name": "Judge - 235/264",
+        "price": 500,
+        "discount": 20,
+        "type": "partidario",
+        "stock": true,
+        "image": "/img/Judge.webp"
+    },
+    {
+        "name": "Gusty pickaxe Reverse - 145/189",
+        "price": 1000,
+        "discount": 20,
+        "type": "objeto",
+        "stock": true,
+        "image": "/img/Gusty Pickaxe reverse.webp"
+    },
+    {
+        "name": "Jubilife village Reverse - 148/189",
+        "price": 1000,
+        "discount": 20,
+        "type": "estadio",
+        "stock": true,
+        "image": "/img/Jubilife village reverse.webp"
+    },
+    {
+        "name": "Jubilife village - 148/189",
+        "price": 1000,
+        "discount": 20,
+        "type": "estadio",
+        "stock": true,
+        "image": "/img/Jubilife village.webp"
+    },
+    {
+        "name": "Venusaur Reverse - 003/078",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Venusaur reverse.webp"
+    },
+    {
+        "name": "Venusaur Holo - 003/078",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Venusaur holo.webp"
+    },
+    {
+        "name": "Moltres Reverse - 012/078",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Moltres reverse.webp"
+    },
+    {
+        "name": "Moltres Holo - 012/078",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Moltres holo.webp"
+    },
+    {
+        "name": "Articuno Holo - 024/078",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Articuno holo.webp"
+    },
+    {
+        "name": "Zapdos Reverse - 012/078",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Zapdos reverse.webp"
+    },
+    {
+        "name": "Empoleon Holo - 037/172",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Empoleon holo.webp"
+    },
+    {
+        "name": "Snorlax Holo - 055/078",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Snorlax holo.webp"
+    },
+    {
+        "name": "Blastoise Holo - 017/078",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Blastoise holo.webp"
+    },
+    {
+        "name": "Hisuian samurott Promo - SWSH207",
+        "price": 1500,
+        "discount": 40,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Hisuian samurott promo.webp"
+    },
+    {
+        "name": "Muk Reverse - 085/172",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Muk reverse.webp"
+    },
+    {
+        "name": "Muk - 085/172",
+        "price": 1000,
+        "discount": 20,
+        "type": "pokemon",
+        "stock": true,
+        "image": "/img/Muk.webp"
     }
 ]
